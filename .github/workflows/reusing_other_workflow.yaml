@@ -14,5 +14,5 @@ jobs:
       run: echo Just a regular job
 
   run-reusable:
-    uses: https://github.com/szabgab/github-actions-reusable-workflow/.github/workflows/reusable.yaml
+    uses: szabgab/github-actions-reusable-workflow/.github/workflows/reusable.yaml@main
 
